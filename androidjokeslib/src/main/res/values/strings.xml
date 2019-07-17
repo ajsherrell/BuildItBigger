@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidJokesLIb</string>
+    <string name="no_jokes">No jokes are available</string>
+</resources>
